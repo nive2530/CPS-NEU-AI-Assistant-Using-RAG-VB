@@ -45,7 +45,7 @@ Ensure you have the following before starting the setup:
 
 1. Open a terminal and run the following command to clone the repo:
    ```bash
-   git clone https://github.com/jibinb961/cps_assistant_rag.git
+   git clone https://github.com/nive2530/CPS-NEU-AI-Assistant-Using-RAG-VB.git
    ```
    OR manually download the ZIP from the GitHub link and extract it.
 2. Navigate to the project folder:
